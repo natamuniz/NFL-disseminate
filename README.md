@@ -1,2 +1,2 @@
-# NFL-disseminate
-Information page about the NFL in order to disseminate it to the Brazilian population.
+# Projeto de disseminação da Liga de Futebol Americano no Brasil
+
